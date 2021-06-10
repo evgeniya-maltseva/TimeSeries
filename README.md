@@ -1,5 +1,6 @@
 # TimeSeries
-Example jupyter notebooks for dealing with time series.
+Example jupyter notebooks for dealing with time series.    
+
 Project 1 - **Energy consumption forecast**    
 This is the small part of the framework. Scripts are not going to run as not every file is uploaded and input data is absent. They are here just as sample code.
     
